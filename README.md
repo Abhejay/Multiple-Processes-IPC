@@ -2,9 +2,9 @@
 
 Files in the project consists of:
 
--> Memory.java
+-> Memory.java (Implement instructions since it is composed of registers)
 
--> Cpu.java
+-> Cpu.java (Read and Write data)
 
 
 To compile and run the project:
